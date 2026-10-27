@@ -72,6 +72,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ## Servers
 
+- [AgentX (NEMO x402 Micro-Services)](https://agentx.sale) `https://agentx.sale/x402/mcp`
+  [![AgentX x402 gateway MCP connector](https://glama.ai/mcp/connectors/io.github.floortomproductions-droid/agentx-x402-gateway/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.floortomproductions-droid/agentx-x402-gateway)
+  🔓 - Catalogue + x402 Doctor for the gateway's 26 pay-per-call agent micro-services (security headers score, CISA KEV/NVD exploit check, SEO audit, WebMCP check/upgrade, weather, site health, Polymarket + crypto data, email deliverability, Landing Page Roast; USDC on Base + Solana, MPP and Stripe rails). Tools are free.
+
 * 🔗 - [Aggregators](#aggregators)
 * 🤝 - [Agreements & Coordination](#agreements--coordination)
 * 🌾 - [Agriculture](#agriculture)
